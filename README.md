@@ -27,3 +27,7 @@
 1.  Клонируйте репозиторий: `git clone https://github.com/RaElick/Cross_Drive.git`
 2.  Откройте проект в Unity Hub (версия Unity 2022.3.60f1)
 
+## Изображения
+![Main menu](https://hhcdn.ru/photo/791665556.png?t=1752080863&h=gyr_5W_19ZpRBGRAXvHMEQ)
+![Game-play](https://hhcdn.ru/photo/791665604.png?t=1752080863&h=fsE48U5FMCcxd8-CFxLGnQ)
+
